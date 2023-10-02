@@ -1,0 +1,14 @@
+.idea
+idea
+.DS_Store
+.env
+venv
+
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
+*.pyc
+
+!*media/.gitkeep
+media/*
